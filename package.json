@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongodb": "^6.8.1",
+    "nodemon": "^3.1.4",
+    "react-router-dom": "^6.26.1",
+    "react-scripts": "^5.0.1"
+  }
+}
